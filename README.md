@@ -1196,3 +1196,38 @@ Local environment for Ethereum Smart Contracts development using Docker
 http://1devblog.org/article/local-env-for-ethereum-smart-contracts-dev-using-docker
 
 
+
+
+tensorflow recommenders for recommendations engine
+https://blog.tensorflow.org/2020/09/introducing-tensorflow-recommenders.html	
+
+
+
+Labelai is an online tool designed to label images, useful for training AI models.
+https://github.com/aralroca/labelai
+
+
+task_oriented_dialogue_as_dataflow_synthesis
+https://microsoft.github.io/task_oriented_dialogue_as_dataflow_synthesis/
+https://worksheets.codalab.org/worksheets/0xfc168b6317924c8a85df9ecd39bc52b2
+https://www.microsoft.com/en-us/research/blog/dialogue-as-dataflow-a-new-approach-to-conversational-ai/
+
+
+mozilla web of things and framework
+https://venturebeat.com/2020/09/21/mozilla-spins-out-webthings-as-an-independent-iot-project/
+https://webthings.io/
+https://iot.mozilla.org/about/
+https://iot.mozilla.org/framework/
+https://iot.mozilla.org/gateway/
+https://github.com/lillo42/webthing-csharp
+
+
+
+Bot Framework Composer is a new open-source tool by Microsoft for visual bot development
+https://www.neowin.net/news/bot-framework-composer-is-a-new-open-source-tool-by-microsoft-for-visual-bot-development
+
+
+ibm quantum computing qiskit
+https://qiskit.org/overview
+https://qiskit.org/learn?timeScale=any
+https://qiskit.org/documentation/install.html
