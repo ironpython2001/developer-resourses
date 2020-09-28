@@ -1231,3 +1231,21 @@ ibm quantum computing qiskit
 https://qiskit.org/overview
 https://qiskit.org/learn?timeScale=any
 https://qiskit.org/documentation/install.html
+
+
+
+Dockerize Your Development Environment in VS Code
+https://medium.com/better-programming/dockerize-your-development-environment-in-vs-code-d55ba8d705a9
+
+Top 10 Node.js Frameworks For Web App Development in 2020-21
+https://medium.com/javascript-in-plain-english/top-10-node-js-frameworks-for-web-app-development-in-2020-21-38e3ea2a57e5
+
+Top 5 Python-based ETL tools to learn in 2020
+https://content.techgig.com/top-5-python-based-etl-tools-to-learn-in-2020/articleshow/74489069.cms
+
+
+Host A Private NPM Registry
+https://www.codeproject.com/Articles/5279921/Host-A-Private-NPM-Registry
+
+Teaching a Robot to Walk with AI - Introduction to Continuous Control Environments
+https://www.codeproject.com/Articles/5280281/Teaching-a-Robot-to-Walk-with-AI-Introduction-to-C
