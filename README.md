@@ -1249,3 +1249,8 @@ https://www.codeproject.com/Articles/5279921/Host-A-Private-NPM-Registry
 
 Teaching a Robot to Walk with AI - Introduction to Continuous Control Environments
 https://www.codeproject.com/Articles/5280281/Teaching-a-Robot-to-Walk-with-AI-Introduction-to-C
+
+
+Web3 Data Platform & blockchain database
+https://flur.ee/
+https://tiesdb.com/database
