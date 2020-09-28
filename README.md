@@ -1254,3 +1254,13 @@ https://www.codeproject.com/Articles/5280281/Teaching-a-Robot-to-Walk-with-AI-In
 Web3 Data Platform & blockchain database
 https://flur.ee/
 https://tiesdb.com/database
+
+bigchaindb tutorial
+https://www.geoffmomin.com/2018/08/19/build-a-blockchain-database/
+
+
+How to develop Bot in Docker Container with Microsoft Bot Framework
+https://www.rjesh.com/bot-framework-in-docker/
+
+Microsoft Bot Framework Emulator and docker
+https://chatbotslife.com/microsoft-bot-framework-emulator-and-docker-12fe5292a396
